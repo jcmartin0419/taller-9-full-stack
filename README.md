@@ -10,5 +10,5 @@
 <a href="https://www.figma.com/file/GAdDrvO8QbTF7lcSvUxF1B/Julio-Cesar-Gonzalez-Camacho?type=design&node-id=5%3A260&mode=design&t=AayTVAwU4zARERrW-1" target="_blank">Link de Figma</a>
 
 <h2> Punto 2: HTML</h2>
-img
+<img src= "./public/images/html.png" alt="html">
 
