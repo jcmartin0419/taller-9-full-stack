@@ -16,5 +16,5 @@
 <img src= "./public/images/CSS.png" alt="CSS">
 
 <h2> Punto 4: Azul y rojo</h2>
-<img src= "./public/images/Punto4" alt="Punto4">
+<img src= "./public/images/Punto4.png" alt="Punto4">
 
