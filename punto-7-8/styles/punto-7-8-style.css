@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    background-color: fuchsia;
+    align-content: center;
+    padding: 10px;
+}
+.btn{
+    margin: 10px 30px;
+    background-color: blue;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.div1{
+    padding: 10px 30px;
+    color: #fff;
+}
+.div2{
+    padding: 10px 30px;
+    color: #fff;
+}

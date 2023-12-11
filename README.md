@@ -22,4 +22,7 @@
 <img src= "./public/images/Punto5.png" alt="Punto5">
 
 <h2> Punto 6: Enlace</h2>
-<img src= "./public/images/Punto6.png" alt="Punto5">
+<img src= "./public/images/Punto6.png" alt="Punto6">
+
+<h2> Punto 7-8: Enlace</h2>
+<img src= "./public/images/Punto7-8.png" alt="Punto7-8">
