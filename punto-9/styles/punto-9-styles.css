@@ -1,0 +1,10 @@
+.table,td,th,p{
+    border: 0.5px solid black;
+    background-color: yellow;
+    border-collapse: collapse;
+} 
+
+.table tr th{
+    color: red;
+}
+    

@@ -26,3 +26,6 @@
 
 <h2> Punto 7-8: Enlace</h2>
 <img src= "./public/images/Punto7-8.png" alt="Punto7-8">
+
+<h2> Punto :Tabla</h2>
+<img src= "./public/images/Punto9.png" alt="Punto9">
