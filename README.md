@@ -18,3 +18,5 @@
 <h2> Punto 4: Azul y rojo</h2>
 <img src= "./public/images/Punto4.png" alt="Punto4">
 
+<h2> Punto 5: Parrafo</h2>
+<img src= "./public/images/Punto5.png" alt="Punto5">
