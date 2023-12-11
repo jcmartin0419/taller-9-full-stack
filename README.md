@@ -20,3 +20,6 @@
 
 <h2> Punto 5: Parrafo</h2>
 <img src= "./public/images/Punto5.png" alt="Punto5">
+
+<h2> Punto 6: Enlace</h2>
+<img src= "./public/images/Punto6.png" alt="Punto5">

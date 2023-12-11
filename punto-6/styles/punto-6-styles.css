@@ -1,0 +1,24 @@
+ .enlace1{
+      font-size: xx-large;
+      color: yellow;
+    }
+.enlace2{
+       font-size: xx-large;
+       color: purple;
+       
+}
+.enlace1:link{
+    color: green;
+}
+.enlace2:link{
+    color: green;
+}   
+
+.enlace1:hover{
+    border-right-color: black;
+    color: blueviolet;
+}
+.enlace2:hover{
+    border-right-color: brown;
+    color: black;
+}
